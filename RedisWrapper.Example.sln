@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RedisWrapper.Api", "RedisWrapper.Api\RedisWrapper.Api.csproj", "{F54647F2-D372-4EB2-98DA-D4EF1816F935}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RedisWrapper.Service", "RedisWrapper.Client\RedisWrapper.Service.csproj", "{CCEA4A5F-C5E2-4A7F-B226-D49AD8E0909B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RedisWrapper.Interface", "RedisWarpper.Interface\RedisWrapper.Interface.csproj", "{9062BA0A-8CA0-4B1E-9532-0364C0699AFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F54647F2-D372-4EB2-98DA-D4EF1816F935}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F54647F2-D372-4EB2-98DA-D4EF1816F935}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F54647F2-D372-4EB2-98DA-D4EF1816F935}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F54647F2-D372-4EB2-98DA-D4EF1816F935}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCEA4A5F-C5E2-4A7F-B226-D49AD8E0909B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCEA4A5F-C5E2-4A7F-B226-D49AD8E0909B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCEA4A5F-C5E2-4A7F-B226-D49AD8E0909B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCEA4A5F-C5E2-4A7F-B226-D49AD8E0909B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9062BA0A-8CA0-4B1E-9532-0364C0699AFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9062BA0A-8CA0-4B1E-9532-0364C0699AFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9062BA0A-8CA0-4B1E-9532-0364C0699AFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9062BA0A-8CA0-4B1E-9532-0364C0699AFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18900D76-A308-445C-89B6-08F97922BB8F}
+	EndGlobalSection
+EndGlobal

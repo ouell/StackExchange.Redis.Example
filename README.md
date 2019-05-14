@@ -1,1 +1,0 @@
-# StackExchange.Redis.Example
